@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(0, 55, 255, 0.481);
+}
+.h10{
+    text-align: center;
+    font-size: 30px;
+}
+.h11{
+    text-align: center;
+    font-size: 30px;
+}
+.h12{
+    text-align: center;
+    font-size: 30px;
+}
+.h13{
+    text-align: center;
+    font-size: 30px;
+}
+.img01{
+    margin: 20px;
+   max-width: 100%;
+   height: auto;
+   border-radius: 20px;
+    
+}
+.p01{
+    font-size: 20px;
+    color: blue;
+}
+.p02{
+    font-size: 20px;
+    color: blue;
+}
+.p03{
+    font-size: 20px;
+    color: blue;
+}
+.p04{
+    font-size: 20px;
+    color: blue;
+}
+.p05{
+    font-size: 20px;
+    color: blue;
+}
